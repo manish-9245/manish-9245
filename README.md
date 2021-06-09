@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Manish Tiwari
 - 👀 I’m interested in Data Science and Web Development
 - 🌱 I’m currently learning Full stack Web development and R and Python for Data Science and Visualization
-- 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 Reachout to me on manishsit13@gmail.com
 
 <!---
