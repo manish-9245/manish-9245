@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Manish Tiwari
 - 👀 I’m interested in Data Science and Web Development
-- 🌱 I’m currently learning Full stack Web development and R and Python for Data Science and Visualization
+- 🌱 I’m currently learning Full stack Web development and R and Python for Data Science and Visualization  
+- My Github has a lot more private repositories than public ones!
 - 📫 Reachout to me on manishsit13@gmail.com
 
 <!---
