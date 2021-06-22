@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Manish Tiwari
 #### I am a Web Developer, Data Science Enthusiast and a Networking Enthusiast 
-![I am a Web Developer, Data Science Enthusiast and a Networking Enthusiast ](https://ibb.co/R6xKQmm)
+![image](https://user-images.githubusercontent.com/69393822/122900816-9f726300-d36a-11eb-88c1-fd920fe374b6.png)
+
 
 I enjoy making Websites, building and scaling up networks, and working on data to get desired outputs and visualize them!
 
