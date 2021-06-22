@@ -19,7 +19,7 @@ Skills: C++/ PYTHON / PHP / JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/manish-9245) &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/manishtiwari13/)&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/manishonig/)&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/manisht_13)
 
-###Personal Portfolio Website- manishtiwari.host20.uk/personal%20portfolio/
+---[Personal Portfolio Website](http://manishtiwari.host20.uk/personal%20portfolio/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manish-9245)](https://github.com/anuraghazra/github-readme-stats)
 
