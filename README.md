@@ -6,12 +6,12 @@
 I enjoy making Websites, building and scaling up networks, and working on data to get desired outputs and visualize them!
 
 Coding Skills: C++/ PYTHON / PHP / JS / HTML / CSS  
-Tools/Softwares:Adobe Dreamweaver / Cisco Packet Tracer / Bootstrap Studio
+Tools/Softwares/IDE: Adobe Dreamweaver / Cisco Packet Tracer / Bootstrap Studio / VS Code / RStudio / Pycharm
 
 - 🔭 I’m currently working on Enhancing my Backend development skills 
 - 🌱 I’m currently learning Web Development(Full-Stack) 
 - 👯 I’m looking to collaborate on Web Development ,Data Science and Networking Projects 
-- 🤔 I’m looking for help with Deploying Data Analytics and models built on MongoDB on PHP Websites 
+- 🤔 I’m looking forward to contribute to open source, because it is of immense help to people. 
 - 💬 Ask me about Technology, Web Development, Networking and Data Science 
 - 📫 How to reach me: Email-manishsit13@gmail.com 
 - 😄 Pronouns: He/Him 
