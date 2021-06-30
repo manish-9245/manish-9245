@@ -5,7 +5,8 @@
 
 I enjoy making Websites, building and scaling up networks, and working on data to get desired outputs and visualize them!
 
-Skills: C++/ PYTHON / PHP / JS / HTML / CSS
+Coding Skills: C++/ PYTHON / PHP / JS / HTML / CSS  
+Tools/Softwares:Adobe Dreamweaver / Cisco Packet Tracer / Bootstrap Studio
 
 - 🔭 I’m currently working on Enhancing my Backend development skills 
 - 🌱 I’m currently learning Web Development(Full-Stack) 
