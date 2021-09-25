@@ -30,7 +30,7 @@
 <h3 align="left">Other Skills:</h3>  
 <p>Cisco Packet Tracer, Xilinx ISE Design Suit, NI Multisim, Bootstrap Studio, Adobe Dreamweaver, Adobe Premiere Pro, FL Studio</p>  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manish-9245&show_icons=true&locale=en&layout=compact" alt="manish-9245" /></p>
+<p><img align="center" src="https://www.linkpicture.com/q/code_1.gif" alt="manish-9245" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manish-9245&show_icons=true&locale=en" alt="manish-9245" /></p>
 
