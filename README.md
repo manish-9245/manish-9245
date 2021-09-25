@@ -36,6 +36,6 @@
 <p><img align="center" src="https://www.linkpicture.com/q/code_1.gif" alt="manish-9245" width="1000" /></p>    
 <h1 align="center">Stats</h1>
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manish-9245&theme=vue" width="100%"/>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=manish-9245&" alt="manish-9245" width="40%" /><img align="right" src="https://github-readme-stats.vercel.app/api?username=manish-9245&show_icons=true&locale=en" alt="manish-9245" width="50%" /><p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=manish-9245&" alt="manish-9245" width="45%" /><img align="right" src="https://github-readme-stats.vercel.app/api?username=manish-9245&show_icons=true&locale=en" alt="manish-9245" width="50%" /><p>
 
 
