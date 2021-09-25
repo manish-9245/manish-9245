@@ -24,6 +24,7 @@
 <a href="https://instagram.com/manish_.tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manish_.tiwari" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/manish_9245" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="manish_9245" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/manishsit13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manishsit13" height="30" width="40" /></a>
+ <a href="https://twitter.com/manisht_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manishsit13" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
