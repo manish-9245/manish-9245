@@ -2,7 +2,7 @@
 <h3 align="center">A passionate 3rd year Btech Undergrad student from India. I'm a self motivated learner and enjoy coding and reading about tech in general.</h3>  
 
 
-![Colorful Gradient Business Manager Profile LinkedIn Banner (3)](https://user-images.githubusercontent.com/69393822/130918814-e3f48bde-1721-44d5-8e25-53d637ab67e3.png)
+![Colorful Gradient Business Manager Profile LinkedIn Banner (3)](https://www.linkpicture.com/q/Colorful-Gradient-Business-Manager-Profile-LinkedIn-Banner.gif)
 
 
 
@@ -31,8 +31,9 @@
 <h3 align="left">Other Skills:</h3>  
 <p>Cisco Packet Tracer, Xilinx ISE Design Suit, NI Multisim, Bootstrap Studio, Adobe Dreamweaver, Adobe Premiere Pro, FL Studio</p>  
 
-<p><img align="center" src="https://www.linkpicture.com/q/code_1.gif" alt="manish-9245" /></p>    
+<p><img align="center" src="https://www.linkpicture.com/q/code_1.gif" alt="manish-9245" width="1000" /></p>    
 <h1 align="center">Stats</h1>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manish-9245&theme=vue)
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=manish-9245&show_icons=true&locale=en" alt="manish-9245" /></p>  
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=manish-9245&" alt="manish-9245" /></p>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manish-9245&theme=vue" width="100%"/>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=manish-9245&" alt="manish-9245" width="40%" /><img align="right" src="https://github-readme-stats.vercel.app/api?username=manish-9245&show_icons=true&locale=en" alt="manish-9245" width="50%" /><p>
+
+
