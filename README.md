@@ -1,19 +1,6 @@
 
 ![Colorful Gradient Business Manager Profile LinkedIn Banner](https://user-images.githubusercontent.com/69393822/134772459-776d0b77-bb39-45f9-ae68-84c748405fc2.gif)
-
-
-
-
-
-- 🌱 I’m currently learning **Data Structures and Algorithms**
-
-- 💬 Ask me about **Anything tbh, if I know something I'd be happy to help!**
-
-- 📫 How to reach me **manishsit13@gmail.com**
-
-- ⚡ Fun fact **I am a Musician!**
-
-- Here is my portfolio website- https://manish-9245.github.io/
+<h2 align="center">Hey, I'm Manish Tiwari a 3rd year B.E undergrad student from India</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
