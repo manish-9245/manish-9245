@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Manish Tiwari</h1>
-<h3 align="center">A passionate 3rd year Btech Undergrad student from India. I'm a self motivated learner and enjoy coding and reading about tech in general.</h3>  
-
 
 ![Colorful Gradient Business Manager Profile LinkedIn Banner](https://user-images.githubusercontent.com/69393822/134772459-776d0b77-bb39-45f9-ae68-84c748405fc2.gif)
 
