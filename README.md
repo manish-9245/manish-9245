@@ -40,5 +40,15 @@
  <a href="https://instagram.com/manish_.tiwari" target="blank"><img align= 'center'  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manish_.tiwari" width="32px" /></a> 
  <a href="https://www.codechef.com/users/manish_9245" target="blank"><img align= 'center'  src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="manish_9245" width="32px" /></a> 
 <a href="https://www.hackerrank.com/manishsit13" target="blank"><img align= 'center'  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manishsit13" width="32px" /></a>
-
+<h2> Stuff I've worked on this week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@manish13&compact=True"/>
+</a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
+<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>  
+
+ <a href="https://git.io/streak-stats">
+  <img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=manish-9245&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=manish-9245&show_icons=true&count_private=true&theme=dracula&include_all_commits"/>
+</a>
