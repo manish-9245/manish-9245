@@ -32,14 +32,14 @@
 <a href= https://github.com/manish-9245?tab=repositories&q=&type=&language=sass&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'> </a>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/manishtiwari13'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>  
-<a href = 'https://www.twitter.com/manisht_13'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>  
-<a href = 'https://medium.com/@manishtiwarii'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a>  
-<a href = 'https://manish-9245.github.io/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/manish-9245/manish-9245.github.io/main/favicon.png"/></a>  
-<a href = 'https://www.github.com/manish-9245'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
- <a href="https://instagram.com/manish_.tiwari" target="blank"><img align= 'center'  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manish_.tiwari" width="32px" /></a> 
- <a href="https://www.codechef.com/users/manish_9245" target="blank"><img align= 'center'  src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="manish_9245" width="32px" /></a> 
-<a href="https://www.hackerrank.com/manishsit13" target="blank"><img align= 'center'  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manishsit13" width="32px" /></a>
+<a href = 'https://www.linkedin.com/in/manishtiwari13'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp  
+<a href = 'https://www.twitter.com/manisht_13'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>  &nbsp 
+<a href = 'https://medium.com/@manishtiwarii'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a>  &nbsp 
+<a href = 'https://manish-9245.github.io/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/manish-9245/manish-9245.github.io/main/favicon.png"/></a>   &nbsp
+<a href = 'https://www.github.com/manish-9245'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>  &nbsp
+ <a href="https://instagram.com/manish_.tiwari" target="blank"><img align= 'center'  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manish_.tiwari" width="32px" /></a>  &nbsp
+ <a href="https://www.codechef.com/users/manish_9245" target="blank"><img align= 'center'  src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="manish_9245" width="32px" /></a>  &nbsp
+<a href="https://www.hackerrank.com/manishsit13" target="blank"><img align= 'center'  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manishsit13" width="32px" /></a> &nbsp
 <h2> Stuff I've worked on this week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@manish13&compact=True"/>
 </a>
