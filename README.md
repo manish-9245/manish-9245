@@ -38,7 +38,6 @@
 <a href = 'https://manish-9245.github.io/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/manish-9245/manish-9245.github.io/main/favicon.png"/></a>   &nbsp
 <a href = 'https://www.github.com/manish-9245'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>  &nbsp
  <a href="https://instagram.com/manish_.tiwari" target="blank"><img align= 'center'  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manish_.tiwari" width="32px" /></a>  &nbsp
- <a href="https://www.codechef.com/users/manish_9245" target="blank"><img align= 'center'  src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="manish_9245" width="32px" /></a>  &nbsp
 <a href="https://www.hackerrank.com/manishsit13" target="blank"><img align= 'center'  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manishsit13" width="32px" /></a> &nbsp
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
