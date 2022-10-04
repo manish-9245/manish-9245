@@ -5,16 +5,15 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 5%>  <img src = "https://visitor-badge.glitch.me/badge?page_id=manish-9245.manish-9245" width = 10%>
 <p align='center'>
  </p></h1>
- <h4>Hi! My name is Manish Tiwari. I am a 3rd Year B.Tech undergrad. student from India:heart:.I am highly interested in Full-Stack Web Development, Programming, Computer Networks and Data Analysis.</h4>
+ Hey !! My name is Manish Tiwari  :panda_face: <br>I'm a 4th Year B.E undergrad. student from India:heart:.<br>I am highly interested in Full-Stack Web Development and Programming
 
 <h2> About Me :question:</h2>
 
 <img width="25%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I'm currently working on Machine Learning Projects
 - 🌱 I'm currently learning Data Structures and Algorithms
-- 👯 I'm looking to collaborate on Projects,Tech Articles
-- 💬 Talk to me about Web Development, Computer Networking and Content Creation
+- 👯 I'm looking to collaborate on Innovative Realtime Projects
+- 💬 Talk to me about Web Development, Hackathons and Content Creation
 
 <h2> Skills  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 5%> </h2>
 <a href= https://github.com/manish-9245?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a> 
