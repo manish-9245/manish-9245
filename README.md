@@ -52,8 +52,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=manish-9245&show_icons=true&count_private=true&theme=dracula&include_all_commits"/>
 </a>  
-<p>&nbsp;</p><p>&nbsp;</p>
-<h2 align='center'>Commits Graph</h2>
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
 <a href="https://github.com/manish-9245">
      <img align="center" src="https://activity-graph.herokuapp.com/graph?username=manish-9245&theme=dracula&custom_title=My%20Commits%20Graph%20&hide_border=true" alt="Manish's github stats"/>
     </a>
