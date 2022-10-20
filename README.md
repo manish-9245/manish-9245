@@ -31,17 +31,20 @@
 <a href= https://github.com/manish-9245?tab=repositories&q=&type=&language=sass&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'> </a>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width=10%> </h2>
-<a href = 'https://www.linkedin.com/in/manishtiwari13'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp  
+<a href = 'https://www.linkedin.com/in/manishtiwari13'align="center"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp  
 <a href = 'https://www.twitter.com/manisht_13'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>  &nbsp 
 <a href = 'https://manish-9245.github.io/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/manish-9245/manish-9245.github.io/main/favicon.png"/></a>   &nbsp
 <a href = 'https://www.github.com/manish-9245'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>  &nbsp
  <a href="https://instagram.com/manish_.tiwari" target="blank"><img align= 'center'  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manish_.tiwari" width="32px" /></a>  &nbsp
 <a href="https://www.hackerrank.com/coderbabuaa" target="blank"><img align= 'center'  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manishsit13" width="32px" /></a> &nbsp
 <a href="https://leetcode.com/coderbabuaa/" target="blank"><img align= 'center'  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manishsit13" width="32px" /></a> &nbsp
-<a href="https://www.codechef.com/users/coderbabuaa" target="blank"><img align= 'center'  src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="manishsit13" width="32px" /></a> &nbsp
+<a href="https://www.codechef.com/users/coderbabuaa" target="blank"><img align= 'center'  src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="manishsit13" width="32px" /></a><br>  
+
+<h2 align="center">Trophies</h2>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manish-9245&row=2&column=4" alt="dhruvja" /></a> </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width=5%> </h2>  
+<h2 align="center"> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width=5%> </h2>  
 
  <a href="https://git.io/streak-stats">
   <img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=manish-9245&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
