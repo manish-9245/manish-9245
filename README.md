@@ -1,5 +1,6 @@
 <div align="center">
-<img src="[Cover](https://i.ibb.co/4TH3dD9/MANISH-TIWARI-8.png)"/>
+![MANISH TIWARI (8)](https://user-images.githubusercontent.com/69393822/215009332-3304c037-01e6-4a8a-a901-0d669780b1db.png)
+
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 5%>  <img src = "https://visitor-badge.glitch.me/badge?page_id=manish-9245.manish-9245" width = 10%>
