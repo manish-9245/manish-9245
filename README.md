@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "30%" src="https://user-images.githubusercontent.com/69393822/134772459-776d0b77-bb39-45f9-ae68-84c748405fc2.gif" alt="cover" />
+<img src="[Cover](https://i.ibb.co/4TH3dD9/MANISH-TIWARI-8.png)"/>
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 5%>  <img src = "https://visitor-badge.glitch.me/badge?page_id=manish-9245.manish-9245" width = 10%>
@@ -54,7 +54,3 @@
   <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=manish-9245&show_icons=true&count_private=true&theme=dracula&include_all_commits"/>
 </a>  
 <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
-
-<a href="https://github.com/manish-9245">
-     <img align="center" src="https://activity-graph.herokuapp.com/graph?username=manish-9245&theme=dracula&custom_title=My%20Commits%20Graph%20&hide_border=true" alt="Manish's github stats"/>
-    </a>
