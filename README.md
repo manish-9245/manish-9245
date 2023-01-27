@@ -1,16 +1,15 @@
 <div align="center">
-![MANISH TIWARI (8)](https://user-images.githubusercontent.com/69393822/215009332-3304c037-01e6-4a8a-a901-0d669780b1db.png)
-
+<img src="MANISH TIWARI.gif" width="100%" height="50%">
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 5%>  <img src = "https://visitor-badge.glitch.me/badge?page_id=manish-9245.manish-9245" width = 10%>
 <p align='center'>
  </p></h1>
- Hey !! My name is Manish Tiwari  :panda_face: <br>I'm a 4th Year B.E student from India:heart:.<br>I am highly interested in Full-Stack Web Development and Programming
+<p>I'm Manish Tiwari, a Full-Stack Web Developer from India  <img src = "Untitled (30 × 20mm).gif" width = 2.5%>
+. Besides doing Web-Dev I love playing Drums and making Hip-Hop style beats and remixes on DAW's. Checkout my repositories to follow my development journey </p>
 
 <h2> About Me :question:</h2>
-
-<img width="25%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img src="https://api.daily.dev/devcards/5d7677905954487fb05d7156f8d39256.png?r=def" width="250" alt="Manish Tiwari's Dev Card" align="right"/>
 
 - 🌱 I'm currently learning Data Structures and Algorithms
 - 👯 I'm looking to collaborate on Innovative Realtime Projects
@@ -49,9 +48,9 @@
 <h2 align="center">GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width=5%> </h2>  
 
  <a href="https://git.io/streak-stats">
-  <img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=manish-9245&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img align="left" width="47%" height="50%" src="https://github-readme-streak-stats.herokuapp.com?user=manish-9245&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=manish-9245&show_icons=true&count_private=true&theme=dracula&include_all_commits"/>
+  <img align="right" width="45%"  src="https://github-readme-stats.vercel.app/api?username=manish-9245&show_icons=true&count_private=true&theme=dark&include_all_commits"/>
 </a>  
 <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
