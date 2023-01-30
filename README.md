@@ -48,10 +48,10 @@
 <h2 align="center">GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width=5%> </h2>  
  <p align="center">
  <a href="https://git.io/streak-stats">
-  <img align="left" width="47%" height="50%" src="https://github-readme-streak-stats.herokuapp.com?user=manish-9245&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img align="left" height="50%" src="https://github-readme-streak-stats.herokuapp.com?user=manish-9245&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" width="45%"  src="https://github-readme-stats.vercel.app/api?username=manish-9245&show_icons=true&count_private=true&theme=dark&include_all_commits"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=manish-9245&show_icons=true&count_private=true&theme=dark&include_all_commits"/>
 </a>
 </p>
 <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
