@@ -54,4 +54,5 @@
   <img align="right" width="45%"  src="https://github-readme-stats.vercel.app/api?username=manish-9245&show_icons=true&count_private=true&theme=dark&include_all_commits"/>
 </a>  
 <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://leetcard.jacoblin.cool/coderbabuaa?theme=dark&font=Crimson%20Pro&cache=0"/></a> </p>
+ <h2 align="center">Leetcode Stats <img src='ccc.png' width=4%> </h2>  
+<p align="center"> <a href="https://leetcode.com/coderbabuaa/"><img src="https://leetcard.jacoblin.cool/coderbabuaa?theme=dark&font=Crimson%20Pro&ext=heatmap&cache=0"/></a> </p>
