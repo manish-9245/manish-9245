@@ -54,3 +54,4 @@
   <img align="right" width="45%"  src="https://github-readme-stats.vercel.app/api?username=manish-9245&show_icons=true&count_private=true&theme=dark&include_all_commits"/>
 </a>  
 <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://leetcard.jacoblin.cool/coderbabuaa?theme=dark&font=Crimson%20Pro"/></a> </p>
