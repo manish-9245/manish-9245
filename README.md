@@ -9,7 +9,7 @@
 . Besides doing Web-Dev I love playing Drums and making Hip-Hop style beats and remixes on DAW's. Checkout my repositories to follow my development journey </p>
 
 <h2> About Me :question:</h2>
-<img src="https://api.daily.dev/devcards/5d7677905954487fb05d7156f8d39256.png?r=def" width="250" alt="Manish Tiwari's Dev Card" align="right"/>
+<img src="devcard.svg" width="250" alt="Manish Tiwari's Dev Card" align="right"/>
 
 - 🌱 I'm currently learning Data Structures and Algorithms
 - 👯 I'm looking to collaborate on Innovative Realtime Projects
