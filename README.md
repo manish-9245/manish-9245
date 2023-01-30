@@ -46,19 +46,22 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <h2 align="center">GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width=5%> </h2>  
- <p align="center">
- <a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=manish-9245&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</a>
-</p>
-  <p align="center">
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=manish-9245&show_icons=true&count_private=true&theme=dark&include_all_commits"/>
-</a>
-   <a href="https://github.com/manish-9245/github-readme-stats">
-      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish-9245&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/manish-9245/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=manish-9245&theme=react&border=61dafb&hide_border=true" alt="..." />
     </a>
- </p>
-<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+    <a href="https://github.com/manish-9245/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=manish-9245&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/manish-9245/github-readme-stats">
+      <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish-9245&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+</p>
  <h2 align="center">Leetcode Stats <img src='ccc.png' width=4%> </h2>  
 <p align="center"> <a href="https://leetcode.com/coderbabuaa/"><img src="https://leetcard.jacoblin.cool/coderbabuaa?theme=dark&font=Crimson%20Pro&ext=heatmap&cache=0"/></a> </p>
