@@ -32,8 +32,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manish-9245&row=1&column=8" alt="dhruvja" /></a> </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<h2 align="center">GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width=5%> </h2>  
-<br>
+<h2 align="center">GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width=5%> </h2>
 <p align=center>
   <div align=center>
     <a href="https://github.com/ShahrozAhmd/github-readme-streak-stats" title="Go to Source">
