@@ -2,7 +2,7 @@
 <img src="MANISH TIWARI.gif" width="100%" height="50%">
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 5%>  <img src = "https://visitor-badge.glitch.me/badge?page_id=manish-9245.manish-9245" width = 10%> <img src="https://wakatime.com/badge/user/8862995c-21a1-4de3-9a95-e04b050ba05e.svg">  <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/manish-9245?style=social"> <p align='center'>
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 5%>  <img src = "https://hits.sh/github.com/manish-9245.svg?extraCount=5000" width = 8%> <img src="https://wakatime.com/badge/user/8862995c-21a1-4de3-9a95-e04b050ba05e.svg">  <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/manish-9245?style=social"> <p align='center'>
  </p></h1>
 <p>I'm Manish Tiwari, a Full-Stack Web Developer from India  <img src = "Untitled (30 × 20mm).gif" width = 2.5%>
 . Besides doing Web-Dev I love playing Drums and making Hip-Hop style beats and remixes on DAW's. Checkout my repositories to follow my development journey </p>
