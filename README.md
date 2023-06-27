@@ -37,7 +37,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manish-9245&row=1&column=8" alt="manish-9245" /></a> </p>
 </details>
 <details>
-<summary><h2>GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width=5%></h2></summary>
+<summary><h2>GitHub Stats</h2></summary>
 <p align=center>
   <div align=center>
     <a href="https://github.com/ShahrozAhmd/github-readme-streak-stats" title="Go to Source">
