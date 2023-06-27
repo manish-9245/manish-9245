@@ -15,7 +15,7 @@
 - 💬 Talk to me about Web Development, Hackathons and Content Creation
 
 <details>
-<summary><h2> Skills  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 5%> </h2></summary>
+<summary><h2> Skills :man_technologist:</h2></summary>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,azure,bootstrap,cpp,css,figma,firebase,git,githubactions,html,js,md,matlab,mongodb,mysql,nextjs,php,postman,py,react,redux,sass,tailwind,ts&perline=10" />
@@ -24,7 +24,7 @@
 </details>
 
 <details>
-<summary><h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width=10%> </h2></summary>
+<summary><h2> Connect with me:love_you_gesture:</h2></summary>
 <a href = 'https://www.linkedin.com/in/manishtiwari13'align="center"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp  
 <a href = 'https://www.twitter.com/manisht_13'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>  &nbsp 
 <a href = 'https://manish-9245.github.io/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/manish-9245/manish-9245.github.io/main/src/assets/favicon/MT.png"/></a>   &nbsp
@@ -53,6 +53,6 @@
 </p>
 </details>
 <details>
-<summary> <h2>Leetcode Stats <img src='ccc.png' width=4%> </h2> </summary> 
+<summary> <h2>Leetcode Stats⚡</h2> </summary> 
 <p align="center"> <a href="https://leetcode.com/coderbabuaa/"><img src="https://leetcard.jacoblin.cool/coderbabuaa?theme=dark&font=Crimson%20Pro&ext=heatmap&cache=0"/></a> </p>
 </details>
