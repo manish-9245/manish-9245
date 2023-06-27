@@ -18,7 +18,7 @@
 <summary><h2> Skills  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 5%> </h2></summary>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,azure,bootstrap,cpp,css,figma,firebase,git,githubactions,html,js,md,matlab,mongodb,mysql,nextjs,php,postman,py,react,redux,sass,tailwind,ts&perline=11" />
+    <img src="https://skillicons.dev/icons?i=git,azure,bootstrap,cpp,css,figma,firebase,git,githubactions,html,js,md,matlab,mongodb,mysql,nextjs,php,postman,py,react,redux,sass,tailwind,ts&perline=10" />
   </a>
 </p>
 </details>
