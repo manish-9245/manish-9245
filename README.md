@@ -43,7 +43,7 @@
 <summary><h2>GitHub Stats⚡</h2></summary>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/ShahrozAhmd/github-readme-streak-stats" title="Go to Source">
+    <a href="https://github.com/manish-9245" title="Go to Source">
       <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=manish-9245&theme=react&border=61dafb&hide_border=true" alt="Manish Tiwari" />
     </a>
     <a href="https://github.com/ShahrozAhmd/github-readme-stats" title="Go to Source">
