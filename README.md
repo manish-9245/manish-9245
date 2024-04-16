@@ -25,7 +25,7 @@
 
 <details>
 <summary><h2> Connect with me :love_you_gesture:</h2></summary>
-<a href = 'https://www.linkedin.com/in/manishtiwari13'align="center"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp  
+<a href = 'https://www.linkedin.com/in/manish.mp3'align="center"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp  
 <a href = 'https://www.twitter.com/manisht_13'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>  &nbsp 
 <a href = 'https://manish-9245.github.io/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/manish-9245/manish-9245.github.io/main/src/assets/favicon/MT.png"/></a>   &nbsp
 <a href = 'https://www.github.com/manish-9245'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>  &nbsp
