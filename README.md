@@ -56,4 +56,8 @@
 <summary> <h2>Leetcode Stats⚡</h2> </summary> 
 <p align="center"> <a href="https://leetcode.com/coderbabuaa/"><img src="https://leetcard.jacoblin.cool/coderbabuaa?theme=dark&font=Crimson%20Pro&ext=heatmap&cache=0"/></a> </p>
 </details>
-[![An image of @coderbabuaa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/coderbabuaa)](https://holopin.io/@coderbabuaa)
+<a href="https://holopin.io/@coderbabuaa">
+  <img src="https://holopin.me/coderbabuaa" alt="An image of @coderbabuaa's Holopin badges, which is a link to view their full Holopin profile">
+</a>
+
+
