@@ -4,8 +4,8 @@
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 5%>  <img src = "https://hits.sh/github.com/manish-9245.svg?extraCount=5000" width = 8%> <img src="https://wakatime.com/badge/user/8862995c-21a1-4de3-9a95-e04b050ba05e.svg">  <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/manish-9245?style=social"> <p align='center'>
  </p></h1>
-<p>Full-Stack Web Developer from India  <img src = "Untitled (30 × 20mm).gif" width = 2.5%>
-. Besides doing Web-Dev I play Drums and make Hip-Hop style beats and remixes on DAW's. Checkout my repositories to follow my development journey </p>
+<p>Hello, I'm a Software Engineer from India  <img src = "Untitled (30 × 20mm).gif" width = 2.5%><br>I Enjoy building impactful products!
+
 
 <h2> About Me :question:</h2>
 <img src="devcard.svg" width="250" alt="Manish Tiwari's Dev Card" align="right"/>
