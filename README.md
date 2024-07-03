@@ -8,7 +8,7 @@
 
 
 <h2> About Me :question:</h2>
-<img src="devcard.svg" width="250" alt="Manish Tiwari's Dev Card" align="right"/>
+<!-- <img src="devcard.svg" width="250" alt="Manish Tiwari's Dev Card" align="right"/> -->
 
 <details>
 <summary><h2> Skills :man_technologist:</h2></summary>
