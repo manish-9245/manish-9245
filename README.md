@@ -14,7 +14,7 @@
 <summary><h2> Skills :man_technologist:</h2></summary>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,azure,bootstrap,cpp,css,figma,firebase,git,githubactions,kafka,supabase,html,js,md,matlab,mongodb,mysql,nextjs,php,postman,py,react,redux,sass,tailwind,ts&perline=13" />
+    <img src="https://skillicons.dev/icons?i=java,py,ts,cpp,react,jest,redux,git,azure,figma,aws,kafka,supabase,js,mongodb,mysql,nextjs,postman,tailwind,opencv,&perline=13" />
   </a>
 </p>
 </details>
