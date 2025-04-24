@@ -99,16 +99,16 @@ I design, build, and scale modern cloud-native applications with a focus on high
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/manish.mp3">
+  <a href="https://www.linkedin.com/in/manishtiwari13">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white">
   </a>
-  <a href="https://manish-9245.github.io/">
+  <a href="https://www.buildwithmanish.com">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?logo=googlechrome&logoColor=white">
   </a>
   <a href="https://twitter.com/manisht_13">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white">
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:manishdoestech@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
   </a>
 </div>
