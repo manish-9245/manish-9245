@@ -84,6 +84,10 @@ I design, build, and scale modern cloud-native applications with a focus on high
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
 
+### 🛠️ Low Code / No Code & Platforms
+![Shopify](https://img.shields.io/badge/Shopify-95BF47?logo=shopify&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
+
 ---
 
 ## 📈 GitHub Analytics
