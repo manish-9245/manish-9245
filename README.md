@@ -1,9 +1,7 @@
 <div align="center">
   <img src="MANISH TIWARI.gif" width="100%" height="50%">
-  <h1>Manish Tiwari</h1>
-  <h3>☁️ Multi-Cloud Specialist | Full-Stack Developer</h3>
 </div>
-
+<br>
 <div align="center">
   <img src="https://hits.sh/github.com/manish-9245.svg?extraCount=5000" alt="Profile Views">
   <img src="https://wakatime.com/badge/user/8862995c-21a1-4de3-9a95-e04b050ba05e.svg" alt="WakaTime">
@@ -11,8 +9,14 @@
 </div>
 
 ## 🎯 About Me
-I design, build, and scale modern cloud-native applications with a focus on high performance, cost-efficiency, and reliability.<br/>With hands-on experience across AWS, Azure, GCP, and proficiency in full-stack development, I deliver production-grade solutions with CI/CD pipelines, serverless architecture, and automated infrastructure.
+> **Bridging Big Tech scale with Solo Founder agility.**
 
+I am a **0-to-1 builder** with a unique dual background: I’ve engineered large-scale distributed systems at Big Tech companies, and I’ve bootstrapped multiple SaaS products solo.
+
+I take a pragmatic approach to shipping:
+* **Complex Scale:** I write high-performance code for cloud-native infrastructure.
+* **Rapid Speed:** I leverage low-code/no-code tools to ship stores and backends instantly.
+* **🧠 Agentic AI:** I architect autonomous AI agents and multi-modal workflows that turn complex, chaotic processes into effortless automation.
 ---
 
 ## 🏅 Cloud Certifications
@@ -27,11 +31,12 @@ I design, build, and scale modern cloud-native applications with a focus on high
 
 ---
 
-## 🧠 AI Platforms
+## 🧠 AI Experience
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-000000?logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
 
 ---
 
