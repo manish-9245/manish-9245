@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="MANISH TIWARI.gif" width="100%" height="50%">
+  <img width="2816" height="930" alt="image" src="https://github.com/user-attachments/assets/14270b6e-ee1d-4b28-ae41-0c1c761f4dca" />
+
 </div>
 <br>
 <div align="center">
