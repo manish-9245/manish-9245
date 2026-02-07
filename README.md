@@ -97,11 +97,7 @@ I take a pragmatic approach to shipping:
 ---
 
 ## 📈 GitHub Analytics
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=manish-9245&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="manish-9245's GitHub Stats" width="49%" />
-  <img src="https://nirzak-streak-stats.vercel.app?user=manish-9245&theme=highcontrast&hide_border=true" alt="GitHub Streak" width="49%" />
-</div>
+[![My Github Stats](https://github-analytics-card-6wqro1aw8-manish9245s-projects.vercel.app/api/summary?username=manish-9245&theme=radical)](https://github.com/manish-9245)
 
 
 ---
