@@ -97,10 +97,8 @@ I take a pragmatic approach to shipping:
 ---
 
 ## 📈 GitHub Analytics
-[![My Github Stats](https://github-analytics-card-6wqro1aw8-manish9245s-projects.vercel.app/api/summary?username=manish-9245&theme=radical)](https://github.com/manish-9245)
 
-
----
+[![Summary Card](https://github-analytics-card.vercel.app/api/summary/manish-9245?username=manish-9245&wakatime_username=manish13&theme=default)](https://github.com/manish-9245)
 
 ## 🌐 Connect With Me
 
