@@ -23,6 +23,7 @@ I take a pragmatic approach to shipping:
 
 <div align="center">
   <img src="https://images.credly.com/size/340x340/images/0dc62494-dc94-469a-83af-e35309f27356/blob" width="110" alt="Terraform Associate" />
+  <img src="https://images.credly.com/images/52c6e5ac-9516-4944-a4df-e31b23c9bbf2/blob" width="110" alt="AWS Gen AI Professional" />
   <img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="100" alt="AWS Developer Associate" />
   <img src="https://images.credly.com/size/340x340/images/08a5010a-0c0a-448c-981e-c116fedd380c/image.png" width="100" alt="FinOps Practitioner" />
   <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" alt="AWS Cloud Practitioner" />
